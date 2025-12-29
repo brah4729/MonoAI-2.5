@@ -1,3 +1,4 @@
+<center>
 # MonoAI
 MonoAI Gen1
 
@@ -22,3 +23,5 @@ python api.py
 
 
 password=321onom
+
+</center>

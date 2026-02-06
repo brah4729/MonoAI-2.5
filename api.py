@@ -18,7 +18,7 @@ CORS(app)  # Enable CORS for static website access
 # ========================================
 # CONFIGURATION
 # ========================================
-MODEL_PATH = "/home/dhiren/Desktop/vscode/MonoAI-2.5/finetunethisfirst/chatbot-model"  # Path to your finetuned model
+MODEL_PATH = "/finetunethisfirst/chatbot-model"  # Path to your finetuned model
 BASE_MODEL = "gpt2"  # Changed to match the finetuning script
 
 # ========================================
